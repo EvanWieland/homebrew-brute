@@ -2,7 +2,7 @@ class Brute < Formula
   desc "Perform brute force attacks on encrypted HFS+ drives."
   homepage "https://bitsmithy.io"
   url "https://github.com/EvanWieland/brute/archive/1.0.0.tar.gz"
-  sha256 "7f7b2c5228e9c53fae991755521b7892975575b63ef5f6bf9ed14c022c76527a"
+  sha256 "16e76d44b1eb23fac06e4d2294858b127d74a3e0f149558ed01b4f6049feb0f6"
   license "MIT"
 
   depends_on "crunch"
