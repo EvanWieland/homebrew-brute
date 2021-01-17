@@ -8,8 +8,8 @@ class Brute < Formula
   depends_on "crunch"
   depends_on "parallel"
 
-	def install
-		bin.install "brute"
+  def install
+    bin.install "brute"
   end
   
 end
